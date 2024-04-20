@@ -64,11 +64,11 @@ class PredictionPipeline:
             print("pred", pred)
             if pred>0.5:
 
-                print("text_classification and abusive")
-                return "text_classification and abusive"
+                print("hate and abusive")
+                return "hate and abusive"
             else:
-                print("no text_classification")
-                return "no text_classification"
+                print("no hate")
+                return "no hate"
         except Exception as e:
             raise CustomException(e, sys) from e
 
