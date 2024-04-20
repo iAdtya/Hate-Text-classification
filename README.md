@@ -1,5 +1,5 @@
-# End-to-end-NLP-Project-Implementation
-
+# Hate-Text-Classification
+![Screenshot 2024-04-21 003412](https://github.com/iAdtya/Hate-Text-classification/assets/93979441/70fe14b5-4712-470e-a275-4b774a31769d)
 
 ## Project Workflows
 
