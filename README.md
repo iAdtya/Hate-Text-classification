@@ -3,10 +3,6 @@ LSTMs are particularly effective for tasks involving sequential data, such as te
 
 ![Screenshot 2024-04-21 003412](https://github.com/iAdtya/Hate-Text-classification/assets/93979441/70fe14b5-4712-470e-a275-4b774a31769d)
 
-## LSTM
-LSTMs are particularly effective for tasks involving sequential data, such as text classification, where the order and context of words are important. They can capture long-term dependencies and maintain relevant information over time, making them well-suited for processing and understanding textual data.
-
-
 ## Project Workflows
 
 - constants
@@ -15,7 +11,6 @@ LSTMs are particularly effective for tasks involving sequential data, such as te
 - components
 - pipeline
 - app.py
-
 
 ## How to run?
 
@@ -36,14 +31,16 @@ conda activate hate
 pip install -r requirements.txt
 ```
 
-```bash
-python app.py
-```
-
-
 # Gcloud cli
 https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 
 ```bash
 gcloud init
 ```
+
+```bash
+python app.py
+```
+
+
+
