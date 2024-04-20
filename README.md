@@ -1,5 +1,11 @@
 # Hate-Text-Classification
+LSTMs are particularly effective for tasks involving sequential data, such as text classification, where the order and context of words are important. They can capture long-term dependencies and maintain relevant information over time, making them well-suited for processing and understanding textual data.
+
 ![Screenshot 2024-04-21 003412](https://github.com/iAdtya/Hate-Text-classification/assets/93979441/70fe14b5-4712-470e-a275-4b774a31769d)
+
+## LSTM
+LSTMs are particularly effective for tasks involving sequential data, such as text classification, where the order and context of words are important. They can capture long-term dependencies and maintain relevant information over time, making them well-suited for processing and understanding textual data.
+
 
 ## Project Workflows
 
@@ -41,14 +47,3 @@ https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 ```bash
 gcloud init
 ```
-
-
-## Deployment
-
-1. Setting up circleCI
-2. Switch on self hosted runner
-3. Create Project
-4. Configure EC2
-5. config.yml
-6. env variables
-7. 
